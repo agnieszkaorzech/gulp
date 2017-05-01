@@ -1,0 +1,31 @@
+{
+  "name": "task8",
+  "version": "1.0.0",
+  "description": "automate workflow",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
+    "gulp.spritesmith": "^6.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszkaorzech/gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Agnieszka Orzech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszkaorzech/gulp/issues"
+  },
+  "homepage": "https://github.com/agnieszkaorzech/gulp#readme"
+}
