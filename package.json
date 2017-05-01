@@ -9,6 +9,8 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-rename": "^1.2.2",
     "gulp-watch": "^4.3.11",
     "gulp.spritesmith": "^6.4.0"
   },
