@@ -16,97 +16,97 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 // HTML
 <i class="icon icon-home"></i>
 */
-.icon-book {
+.icon-s-book {
   background-image: url(../assets/img/sprite.png);
   background-position: -50px 0px;
   width: 50px;
   height: 50px;
 }
-.icon-book_hover {
+.icon-s-book_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -100px -100px;
   width: 50px;
   height: 50px;
 }
-.icon-comments {
+.icon-s-comments {
   background-image: url(../assets/img/sprite.png);
   background-position: 0px -50px;
   width: 50px;
   height: 50px;
 }
-.icon-comments_hover {
+.icon-s-comments_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -50px -50px;
   width: 50px;
   height: 50px;
 }
-.icon-compose {
+.icon-s-compose {
   background-image: url(../assets/img/sprite.png);
   background-position: -100px 0px;
   width: 50px;
   height: 50px;
 }
-.icon-compose_hover {
+.icon-s-compose_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -100px -50px;
   width: 50px;
   height: 50px;
 }
-.icon-facebook {
+.icon-s-facebook {
   background-image: url(../assets/img/sprite.png);
   background-position: 0px -100px;
   width: 50px;
   height: 50px;
 }
-.icon-facebook_hover {
+.icon-s-facebook_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -50px -100px;
   width: 50px;
   height: 50px;
 }
-.icon-globe {
+.icon-s-globe {
   background-image: url(../assets/img/sprite.png);
   background-position: 0px 0px;
   width: 50px;
   height: 50px;
 }
-.icon-globe_hover {
+.icon-s-globe_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -150px 0px;
   width: 50px;
   height: 50px;
 }
-.icon-home {
+.icon-s-home {
   background-image: url(../assets/img/sprite.png);
   background-position: -150px -50px;
   width: 50px;
   height: 50px;
 }
-.icon-home_hover {
+.icon-s-home_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -150px -100px;
   width: 50px;
   height: 50px;
 }
-.icon-instagram {
+.icon-s-instagram {
   background-image: url(../assets/img/sprite.png);
   background-position: 0px -150px;
   width: 50px;
   height: 50px;
 }
-.icon-instagram_hover {
+.icon-s-instagram_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -50px -150px;
   width: 50px;
   height: 50px;
 }
-.icon-user {
+.icon-s-user {
   background-image: url(../assets/img/sprite.png);
   background-position: -100px -150px;
   width: 50px;
   height: 50px;
 }
-.icon-user_hover {
+.icon-s-user_hover {
   background-image: url(../assets/img/sprite.png);
   background-position: -150px -150px;
   width: 50px;
